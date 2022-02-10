@@ -1,5 +1,5 @@
 {
-    "path_roow": "%USERPROFILE%\\Desktop\\git\\bote-ripper\\download",
-    "path_track": "{labi}\\{albi}\\{titi}.mp3",
-    "path_album": "{labi}\\{titi}.mp3"
+    "path_root": "%USERPROFILE%\\Desktop\\music\\bote-ripper-dl",
+    "path_album": "{labi}\\{albi}\\{trck:03}_{titi}.mp3",
+    "path_track": "{labi}\\{titi}.mp3"
 }
