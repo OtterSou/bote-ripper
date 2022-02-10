@@ -8,6 +8,7 @@ Rips preview mp3-128 files from Bandcamp.
 
 * Please support artists by purchasing songs
 * requires [mutagen](https://pypi.org/project/mutagen/)
+* tested only on Windows
 
 ## Features
 
@@ -17,7 +18,7 @@ Rips preview mp3-128 files from Bandcamp.
 
 ## Usage
 
-Run `ripper.py`.
+Run `ripper.py`
 
 ## Settings
 
